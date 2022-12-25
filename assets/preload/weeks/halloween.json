@@ -1,0 +1,33 @@
+{
+	"storyName": "(art by GallyCid)",
+	"startUnlocked": true,
+	"hideFreeplay": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Christmas",
+			"fella",
+			[
+				32,
+				144,
+				0
+			]
+		],
+		[
+			"Spookpostor",
+			"boo",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"weekName": "Week 1"
+}
